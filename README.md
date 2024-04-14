@@ -1,6 +1,6 @@
 # AMLS2_23_24_SN23084017
 
-You can download the dataset from https://drive.google.com/file/d/16CHwGvxoQ53kVsKHYJVBDjhBlLSIaCUo/view?usp=drive_link. And then put the dataset into 'Dataset' folder
+You can download the dataset from https://drive.google.com/file/d/16CHwGvxoQ53kVsKHYJVBDjhBlLSIaCUo/view?usp=drive_link. And then put the dataset into 'Datasets' folder
 
 Python environment: Python 3.9.18
 
