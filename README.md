@@ -3,13 +3,20 @@
 You can download the dataset from https://drive.google.com/file/d/16CHwGvxoQ53kVsKHYJVBDjhBlLSIaCUo/view?usp=drive_link. And then put the dataset into 'Dataset' folder
 
 Python environment: Python 3.9.18
+
 Packages:
 keras                     2.6.0
+
 scikit-learn              1.3.1
+
 tensorflow                2.6.0
+
 seaborn                   0.12.2
+
 numpy                     1.23.4
+
 tqdm                      4.65.0
+
 pandas                    2.1.1
 
 
